@@ -1,0 +1,2 @@
+Metric,Baseline Mean,Attention Mean,Percentage Change,Wilcoxon Stat,p-value,Cohen's d
+Beta/Theta (Ch1),1.13056045155512,1.1050870893210343,-2.253162331925402,200.0,0.2386409710161388,-0.27796959780664343
